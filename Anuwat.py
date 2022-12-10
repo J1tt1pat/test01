@@ -1,2 +1,7 @@
 print("Hello World!!")
-print ("Anuwat inta")
+print("Napat Kongsamut")
+print("พงศธร สายทอง")
+print("GRAM")
+print("J1tt1pat")
+print("Pond")
+print("Anuwat")
